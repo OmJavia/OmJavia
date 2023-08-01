@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Om Javia</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjavia&label=Profile%20views&color=0e75b6&style=flat" alt="omjavia" /> </p>
-
-<p align="left"> <a href="https://twitter.com/omjavia1" target="blank"><img src="https://img.shields.io/twitter/follow/omjavia1?logo=twitter&style=for-the-badge" alt="omjavia1" /></a> </p>
-
-- 🌱 I’m currently learning **Three.js, React.js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://omjavia.vercel.app/](https://omjavia.vercel.app/)
 
 - 📫 How to reach me **omjavia18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1wYiWHJ5R-BzxiQ6_rswHCFuAe_wGhQfu](https://drive.google.com/uc?export=download&id=1wYiWHJ5R-BzxiQ6_rswHCFuAe_wGhQfu)
+- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1wYiWHJ5R-BzxiQ6_rswHCFuAe_wGhQfu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
