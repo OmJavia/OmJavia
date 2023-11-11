@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/JaviaOm84300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omjavia1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/om-javia-360178175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-javia-360178175" height="30" width="40" /></a>
-<a href="https://fb.com/om.javia.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om.javia.3" height="30" width="40" /></a>
+<a href="https://twitter.com/JaviaOm84300" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="omjavia1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/om-javia" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="om-javia-360178175" height="30" width="40" /></a>
+<a href="https://fb.com/om.javia.3" target="blank"><img align="center" src="https://scontent.fbho4-1.fna.fbcdn.net/v/t39.8562-6/379289821_865934508418540_8644135502492996297_n.png?_nc_cat=106&ccb=1-7&_nc_sid=f537c7&_nc_ohc=mbqd8lqXk-kAX8NnJ38&_nc_ht=scontent.fbho4-1.fna&oh=00_AfCe8aTr8Bjzn5in1PG4n-bpcb3CwaDX8nu4lwbG0KyETA&oe=6554CF7B" alt="om.javia.3" height="40" width="40" /></a>
 <a href="https://instagram.com/om_javia01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_javia01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/en20cs302028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="en20cs302028" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/en20cs302028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="en20cs302028" height="30" width="40" /></a>
