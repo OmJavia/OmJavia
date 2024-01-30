@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **omjavia18@gmail.com**
 
-- 📄 Know about my experiences [ Resume](target = "_blank" https://drive.google.com/file/d/1k3wRucUOt8tJa6lBhsS8msZ7dd_1IqlR/view?usp=sharing)
+- 📄 Know about my experiences [ Resume](https://drive.google.com/file/d/1k3wRucUOt8tJa6lBhsS8msZ7dd_1IqlR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
