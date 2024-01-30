@@ -2,17 +2,17 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 
-- 🔭 I’m Currently Studying Computer Science Engineering From [Medicaps University](https://www.medicaps.ac.in/)
+- 🔭 I’m Currently Studying Computer Science Engineering From [**Medicaps University**](https://www.medicaps.ac.in/)
 
 - 🌱 I’m currently learning **JavaScript Libraries**
 
-- 👨‍💻 All of my projects are available at [ My Portfolio](https://omjavia.vercel.app/)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://omjavia.vercel.app/)
 
 - 💬 Ask me about **HTML, Python, Java**
   
 - 📫 How to reach me **omjavia18@gmail.com**
 
-- 📄 Know about my experiences [ Resume](https://drive.google.com/file/d/1k3wRucUOt8tJa6lBhsS8msZ7dd_1IqlR/view?usp=sharing)
+- 📄 Know about my experiences [ **Resume**](https://drive.google.com/file/d/1k3wRucUOt8tJa6lBhsS8msZ7dd_1IqlR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
