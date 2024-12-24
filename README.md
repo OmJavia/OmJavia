@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **omjavia18@gmail.com**
 
-- 📄 Know about my experiences [ **Resume**](https://drive.google.com/file/d/1F7vqJWnS3085dOpb65IAsoVt3H9U2gt0/view?usp=sharing)
+- 📄 Know about my experiences [ **Resume**](https://drive.google.com/file/d/1piCpXUSJk7BZzov8hJe--R90HaqbKr5L/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
