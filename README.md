@@ -1,18 +1,27 @@
-<h1 align="center">Hello 👋, I'm Om Javia</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<h1 align="center">Hello 👋, I'm Om Javia 🧑🏻‍💻</h1>
+<p align="center">
+  <a href="https://github.com/omjavia">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Developer+from+India;Computer+Science+Student;Passionate+Full-Stack+Developer;Software+Engineer;MERN+Stack+Developer;Problem+Solver;Building+Scalable+&+Efficient+Web+Apps;Transforming+Ideas+into+Functional+Code;" alt="typing text" />
+  </a>
+</p>
 
 
-- 🔭 I’m Currently Studying Computer Science Engineering From [**Medicaps University**](https://www.medicaps.ac.in/)
 
-- 🌱 I’m currently learning **JavaScript Libraries**
+- 🔭 I Completed my Bachelor of Technology in Computer Science Engineering From [**Medicaps University**](https://www.medicaps.ac.in/)
+
+- 🌱 I’m currently developing **MERN Stack Projects**
 
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://omjavia.vercel.app/)
-
-- 💬 Ask me about **HTML, Python, Java**
   
-- 📫 How to reach me **omjavia18@gmail.com**
+- 📫 How to reach me **omjavia.work@gmail.com**
 
 - 📄 Know about my experiences [ **Resume**](https://drive.google.com/file/d/1piCpXUSJk7BZzov8hJe--R90HaqbKr5L/view?usp=sharing)
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omjavia/omjavia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omjavia/omjavia/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/omjavia/omjavia/output/github-snake.svg" />
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +46,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
