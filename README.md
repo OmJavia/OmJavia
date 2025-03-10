@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://omjavia.vercel.app/)
   
-- 📫 How to reach me **omjavia.work@gmail.com**
+- 📫 How to reach me **omjavia18@gmail.com**
 
 - 📄 Know about my experiences [ **Resume**](https://drive.google.com/file/d/1piCpXUSJk7BZzov8hJe--R90HaqbKr5L/view?usp=sharing)
 
