@@ -9,7 +9,7 @@
 
 - 🔭 I Completed my Bachelor of Technology in Computer Science Engineering From [**Medicaps University**](https://www.medicaps.ac.in/)
 
-- 🌱 I’m currently developing **MERN Stack Projects**
+- 🌱 I’m currently developing **MERN Stack Projects & AI/ML Projects**
 
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://omjavia.vercel.app/)
   
