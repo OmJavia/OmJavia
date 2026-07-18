@@ -107,13 +107,7 @@ Computer Vision system for terrain segmentation using Detectron2 and HiRISE sate
 
 🐙 GitHub: **https://github.com/omjavia**
 
-𝕏 X (Twitter): **https://x.com/omjavia1**
-
----
-
-## 📈 GitHub Stats
-
-<!-- GitHub Stats -->
+𝕏 (Twitter): **https://x.com/omjavia1**
 
 ---
 
