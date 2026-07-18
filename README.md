@@ -14,9 +14,9 @@ Currently focused on designing production-ready AI applications rather than AI d
 
 ### 🔭 Currently Building
 
-🤖 AI Product Manager
-📄 AI Meeting Intelligence
-⚡ AI Workflow Automation Platform
+- 🤖 AI Product Manager 
+- 📄 AI Meeting Intelligence
+- ⚡ AI Workflow Automation Platform
 
 ### 🌱 Currently Learning
 
