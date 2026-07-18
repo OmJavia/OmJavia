@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Om Javia 🧑🏻‍💻</h1>
 <p align="center">
   <a href="https://github.com/omjavia">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Developer+👨‍💻+from+India;Computer+Science+Student+👨🏻‍🎓;Passionate+Full-Stack+Developer+🙋🏻‍♂️;Software+Engineer+👨🏻‍💼;Problem+Solver+🤹🏻;Building+🏗️+Scalable+&+Efficient+Web+Apps;Transforming+Ideas+💡+into+Functional+Code;" alt="typing text" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Developer+👨‍💻 +from+India;Computer+Science+Student+👨🏻‍🎓;Passionate+Full-Stack+Developer+🙋🏻‍♂️;Software+Engineer+👨🏻‍💼;Problem+Solver+🤹🏻;Building+🏗️+Scalable+&+Efficient+Web+Apps;Transforming+Ideas+💡+into+Functional+Code;" alt="typing text" />
   </a>
 </p>
 
