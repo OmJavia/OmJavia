@@ -1,113 +1,155 @@
 <h1 align="center">Hi 👋, I'm Om Javia</h1>
 
 <h3 align="center">
-AI Product Engineer | Building Production-Grade AI Systems & Agentic Applications
+AI Product Engineer • Founding Manager • Building AI Products from Idea to Launch
 </h3>
+
+<p align="center">
+I build at the intersection of <b>AI, engineering, product strategy, and real-world user impact.</b>
+</p>
+
+<p align="center">
+<a href="https://omjavia.vercel.app">Portfolio</a> •
+<a href="https://linkedin.com/in/om-javia">LinkedIn</a> •
+<a href="mailto:omjavia18@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an AI Product Engineer passionate about building intelligent software that combines LLMs, AI Agents, Computer Vision, and scalable backend systems into real-world products.
+I'm an **AI Product Engineer and Founding Manager** who enjoys turning ambiguous problems into products people can actually use.
 
-Currently focused on designing production-ready AI applications rather than AI demos.
+My background started in **software engineering, machine learning, and computer vision**, and has expanded into **product development, user validation, product strategy, and go-to-market execution**.
 
-### 🔭 Currently Building
+I enjoy working across the full product lifecycle:
 
-- 🤖 AI Product Manager 
-- 📄 AI Meeting Intelligence
-- ⚡ AI Workflow Automation Platform
+**Problem → Research → Prototype → Product Requirements → Engineering → User Feedback → Iteration → Launch**
 
-### 🌱 Currently Learning
-
-- Agentic AI
-- LangGraph
-- Model Context Protocol (MCP)
-- Multi-Agent Systems
-- Production AI Architecture
-- PostgreSQL
-- Kubernetes
-
-### 💼 Experience
-
-- AI Product Engineer @ Metashot
-- AI Engineer (Computer Vision & Sports Analytics)
-- Research Intern @ ISRO
+Currently, I'm focused on building and exploring **AI-powered products, agentic applications, and intelligent systems** that solve practical problems rather than simply demonstrating what AI can do.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏓 What I'm Building
+
+### MegaShot Pickl+
+
+A smart pickleball gaming product where I have worked across **product development, requirements, user feedback, UX coordination, positioning, launch preparation, and GTM execution**.
+
+The product progressed from an early-stage concept to a public Kickstarter launch, with the campaign reaching **500% of its funding goal within the first 24 hours**.
+
+My work spans both the **technical and product sides** of building the product.
+
+---
+
+## 🧠 What I Work On
 
 ### AI & Machine Learning
+Python • PyTorch • Computer Vision • OpenCV • YOLO • Detectron2 • Hugging Face
 
-Python • PyTorch • OpenCV • YOLO • Detectron2 • Hugging Face • LangChain • RAG
+### Generative AI
+LLMs • RAG • LangChain • LangGraph • AI Agents • OpenAI SDK • MCP • Vector Databases
 
-### AI Engineering
+### Backend & Systems
+FastAPI • REST APIs • WebSockets • PostgreSQL • MongoDB • Redis
 
-FastAPI • LangGraph • OpenAI SDK • MCP • Vector Databases • Redis
+### Product Engineering
+React • Next.js • Product Requirements • Prototyping • User Validation • Product Strategy • GTM
 
-### Backend
-
-FastAPI • PostgreSQL • MongoDB • REST APIs • Authentication • WebSockets
-
-### Frontend
-
-React • Next.js • Tailwind CSS
-
-### DevOps
-
+### Infrastructure
 Docker • AWS • GitHub Actions • Linux • Git
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🤖 AI Product Manager *(In Progress)*
+### 🏓 MegaShot Pickl+
+**AI Product • Product Strategy • User Validation • GTM**
 
-An AI-powered Product Management platform capable of generating PRDs, user stories, sprint plans, backlog prioritization, and roadmap recommendations.
+Worked across the development and launch of a smart pickleball gaming product, connecting product requirements, user feedback, UX, engineering, positioning, and go-to-market execution.
 
----
-
-### 📄 AI Meeting Intelligence *(Coming Soon)*
-
-Automatically converts meetings into action items, summaries, Jira tickets, and follow-ups using LLMs.
-
----
-
-### 🎯 MegaShot Pickl+
-
-AI Product Strategy, Product Roadmapping, User Validation, and GTM Strategy for an AR Sports Gaming Platform.
+**Launch milestone:** 500% of Kickstarter funding goal reached within the first 24 hours.
 
 ---
 
 ### 🛰️ Mars Terrain Classification
+**Computer Vision • Deep Learning • Satellite Imagery**
 
-Computer Vision system for terrain segmentation using Detectron2 and HiRISE satellite imagery during my internship at ISRO.
+Research work at **ISRO's Space Applications Centre** involving satellite-image analysis and terrain classification using HiRISE imagery.
 
----
-
-## 🎯 Current Goals (2026)
-
-- Build Production AI Systems
-- Master Agentic AI
-- Learn AI Infrastructure
-- Build Multi-Agent Applications
-- Contribute to Open Source AI
-- Publish Technical Blogs
+- 800+ satellite images processed
+- Detectron2-based computer vision pipeline
+- Terrain classification and segmentation
+- Rover navigation research
 
 ---
 
-## 📫 Connect With Me
+### 📄 RAG / AI Applications
 
-📧 Email: **omjavia18@gmail.com**
+I build and experiment with applications involving:
 
-🌐 Portfolio: **https://omjavia.vercel.app**
+- Retrieval-Augmented Generation
+- Semantic search
+- Document intelligence
+- LLM-powered workflows
+- AI agents
+- Tool calling
+- Multi-step AI workflows
 
-💼 LinkedIn: **https://linkedin.com/in/om-javia**
+More experiments and source code are available across my repositories.
 
-🐙 GitHub: **https://github.com/omjavia**
+---
 
-𝕏 (Twitter): **https://x.com/omjavia1**
+## 💼 Experience
+
+**Founding Manager — MegaShot**  
+Product • AI • Engineering • GTM
+
+**AI Engineer — MegaShot**  
+Computer Vision • Machine Learning • AI Systems
+
+**Associate AI Engineer — Apoliums Infotech**  
+Software Engineering • Machine Learning • Backend Systems
+
+**Research Intern — ISRO, Space Applications Centre**  
+Computer Vision • Satellite Imagery • Machine Learning
+
+---
+
+## 🎯 What I'm Exploring
+
+- Production-grade AI systems
+- Agentic AI architectures
+- LLM applications and RAG
+- AI product development
+- AI infrastructure and deployment
+- Multi-agent systems
+- AI-powered developer tools
+- Product strategy for AI products
+
+---
+
+## 🧩 How I Think About AI Products
+
+> **A good AI product isn't just a model.**
+>
+> It's the combination of the right problem, useful intelligence, good product design, reliable engineering, and continuous feedback from real users.
+
+I'm particularly interested in problems where **technical decisions and product decisions cannot be separated.**
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [omjavia18@gmail.com](mailto:omjavia18@gmail.com)
+
+🌐 **Portfolio:** [omjavia.vercel.app](https://omjavia.vercel.app)
+
+💼 **LinkedIn:** [linkedin.com/in/om-javia](https://linkedin.com/in/om-javia)
+
+🐙 **GitHub:** [github.com/omjavia](https://github.com/omjavia)
+
+𝕏 **:** [x.com/omjavia1](https://x.com/omjavia1)
 
 ---
 
@@ -116,9 +158,11 @@ Computer Vision system for terrain segmentation using Detectron2 and HiRISE sate
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omjavia/omjavia/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omjavia/omjavia/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/omjavia/omjavia/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/omjavia/omjavia/output/github-snake.svg" />
 </picture>
 
 ---
 
-> *Building AI systems that solve real-world problems—not just AI demos.*
+<p align="center">
+<i>Building AI products that solve real problems — not just AI demos.</i>
+</p>
