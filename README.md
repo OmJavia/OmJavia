@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Om Javia</h1>
+<h1 align="center">Hey There 👋, I'm Om Javia</h1>
 
 <h3 align="center">
-AI Product Engineer • Founding Manager • Building AI Products from Idea to Launch
+Founding Manager • AI Product Builder • Technical Operator
 </h3>
 
 <p align="center">
